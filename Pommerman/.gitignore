@@ -1,0 +1,10 @@
+
+\.DS_Store
+
+\.idea/
+\out/
+*.iml
+
+res/gamelogs/json/
+
+res/gamelogs/
